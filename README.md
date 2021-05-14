@@ -2,6 +2,8 @@
 
 # Deep_Learning_Crypto
 
+Cryptocurrency, such as Bitcoin is currently a thriving open-source community and payment network, which is currently used by millions of people. As the value of Bitcoin varies everyday, it would be very interesting for investors to forecast the Bitcoin value but at the same time making it difficult to predict. Bitcoin is a cryptocurrency technology that has attracted investors because of its big price increases.
+
 This program evaluates deep learning models using both the FNG values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data. 
 
 The program runs the two models independently and compares the loss from each and determine which model provides a better result based on the loss value (both mosels use the same parameters for training steps). Each model will need to use 70% of the data for training and 30% of the data for testing.
