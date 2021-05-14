@@ -1,3 +1,5 @@
+![DeepLearning_Crypto](https://github.com/Tijaw1/Deep_Learning_Crypto/blob/main/DeepL_Crypto.jpg)
+
 # Deep_Learning_Crypto
 
 This program evaluates deep learning models using both the FNG values and simple closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data. 
